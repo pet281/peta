@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-color:cornflowerblue;
+}
+nav a{
+    border:3px solid darkslategray(39, 3, 3);
+    text-decoration: none;
+    padding:10px;
+    margin:20px;
+    background-color:orange;
+    color:lightcyan;
+}
+nav{
+  display:flex;
+  justify-content: center;
+}
+img{
+    border:5px solid black;
+    padding:1%;
+}div img{
+    margin:10px;
+}
+iframe{
+    border:5px solid black;
+    padding:1%;
+}
+.frae{
+    border:3px solid darkgoldenrod;
+    box-shadow:2px 2px 5px 0 khaki;
+}
